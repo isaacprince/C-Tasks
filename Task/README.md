@@ -4,5 +4,7 @@ Task/substraction.png
 
 Division 
 ![](division.png)
+Subtraction 
 ![](subtraction.png)
-![](Multiplication%20task.PNG.png)
+Multiplication 
+![](Multiplicationtask.PNG.png)
