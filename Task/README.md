@@ -1,4 +1,8 @@
-Multiplication Task
-https://github.com/isaacprince/C-Tasks/blob/master/Task/Multiplication%20task.PNG
+Task/Multiplicationtask.PNG.png
+Task/division.png
+Task/substraction.png
+
 Division 
-![](Task/division.png)
+![](division.png)
+![](subtraction.png)
+![](Multiplication%20task.PNG.png)
