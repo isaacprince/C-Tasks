@@ -3,4 +3,4 @@ Division
 Subtraction 
 ![](subtraction.png)
 Multiplication 
-![](multiplication .png)
+![](multiplication.png)
