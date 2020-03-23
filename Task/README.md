@@ -7,4 +7,4 @@ Division
 Subtraction 
 ![](subtraction.png)
 Multiplication 
-![](Multiplicationtask.PNG.png)
+![](Multiplication task.PNG)
