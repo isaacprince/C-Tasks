@@ -1,6 +1,6 @@
-C# tasks on Multiplication , Addition and subtraction 
+Division
 ![](Division.png)
 Subtraction
 ![](Subtraction.png)
 Multiplication
-![](Multiplication task.png)
+![](Multiplication task.PNG)
